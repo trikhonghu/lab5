@@ -1,0 +1,6 @@
+1702516955167	Delete resource 'ex/Core/Inc/parse_command'
+1702522443358	Delete resource 'ex/Core/Inc/uart.h'
+1702522447834	Delete resource 'ex/Core/Src/uart.c'
+1702523346383	Delete resource 'ex/Core/Inc/uart_comm.h'
+1702523361710	Delete resource 'ex/Core/Inc/parse_command.h'
+1702523365348	Delete resource 'ex/Core/Src/parse_command.c'
